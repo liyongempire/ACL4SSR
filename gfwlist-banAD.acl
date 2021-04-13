@@ -1517,6 +1517,11 @@
 ^(.*\.)?localhost$
 ^(.*\.)?ip6-localhost$
 ^(.*\.)?ip6-loopback$
+^(.*\.)?geosite:cn$
+^(.*\.)?geoip:private$
+^(.*\.)?geoip:cn$
+
+
 
 # Google China
 (^|\.)265\.com$
